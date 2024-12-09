@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763181486742",
+    "project_id": "miapp-897e5",
+    "storage_bucket": "miapp-897e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763181486742:android:04725efb13f73aecc6e8b7",
+        "android_client_info": {
+          "package_name": "com.example.loginfb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2FJm3WmyqkCHC4PaiU17yy_9rjvIvmGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_1"
+        android:title="Dispositivos"
+        android:enabled="true"
+        android:icon="@drawable/ic_devices"/>
+    <item
+        android:id="@+id/item_2"
+        android:title="SFX"
+        android:enabled="true"
+        android:icon="@drawable/ic_sfx"/>
+    <item
+        android:id="@+id/item_3"
+        android:title="Inicio"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/item_4"
+        android:title="Presets"
+        android:enabled="true"
+        android:icon="@drawable/ic_preset"/>
+    <item
+        android:id="@+id/item_5"
+        android:title="Cerrar Sesion"
+        android:enabled="true"
+        android:icon="@drawable/ic_logout"/>
+</menu>
